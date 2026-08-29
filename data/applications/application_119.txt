@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Carlos Brown
+State: WI
+Annual Income: $
+Requested Loan Amount: $206,500
+Purpose: auto loan
+Existing Monthly Debt Payments: $1,750
+Employment Status: employed full-time
+Notes: Applicant is a first-time borrower.

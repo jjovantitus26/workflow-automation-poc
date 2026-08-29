@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Yusuf Murphy
+State: IL
+Annual Income: $51,000
+Requested Loan Amount: $225,000
+Purpose: home purchase
+Existing Monthly Debt Payments: $600
+Employment Status: unemployed
+Notes: Applicant mentioned a recent job change.

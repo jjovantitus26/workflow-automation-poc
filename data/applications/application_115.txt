@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Carlos Ali
+State: FL
+Annual Income: $
+Requested Loan Amount: $334,500
+Purpose: debt consolidation
+Existing Monthly Debt Payments: $400
+Employment Status: employed part-time
+Notes: Applicant is a first-time borrower.
