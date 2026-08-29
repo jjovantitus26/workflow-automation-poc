@@ -1,0 +1,1202 @@
+[
+  {
+    "id": 1,
+    "name": "Yusuf Smith",
+    "state": "IL",
+    "income": null,
+    "loan_amount": 128000,
+    "purpose": "auto loan",
+    "debt": 1400,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 2,
+    "name": "Maria Garcia",
+    "state": "IL",
+    "income": 83000,
+    "loan_amount": 122000,
+    "purpose": "home improvement",
+    "debt": 3200,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 3,
+    "name": "Grace Rodriguez",
+    "state": "WI",
+    "income": 84000,
+    "loan_amount": 232500,
+    "purpose": "small business expansion",
+    "debt": 3750,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 4,
+    "name": "Liam Chen",
+    "state": "IL",
+    "income": 114000,
+    "loan_amount": 55000,
+    "purpose": "debt consolidation",
+    "debt": 550,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 5,
+    "name": "Liam Lopez",
+    "state": "IL",
+    "income": 145000,
+    "loan_amount": 277500,
+    "purpose": "debt consolidation",
+    "debt": 750,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 6,
+    "name": "Emma Nguyen",
+    "state": "WI",
+    "income": 77000,
+    "loan_amount": 363500,
+    "purpose": "home purchase",
+    "debt": 400,
+    "employment": "self-employed"
+  },
+  {
+    "id": 7,
+    "name": "Sofia Smith",
+    "state": "WI",
+    "income": 99000,
+    "loan_amount": 235000,
+    "purpose": "auto loan",
+    "debt": 2300,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 8,
+    "name": "Grace Brown",
+    "state": "FL",
+    "income": 46000,
+    "loan_amount": 314500,
+    "purpose": "home improvement",
+    "debt": 1050,
+    "employment": "self-employed"
+  },
+  {
+    "id": 9,
+    "name": "Yusuf Kim",
+    "state": "FL",
+    "income": 84000,
+    "loan_amount": 353500,
+    "purpose": "home purchase",
+    "debt": 2050,
+    "employment": "self-employed"
+  },
+  {
+    "id": 10,
+    "name": "Liam Smith",
+    "state": "IL",
+    "income": 108000,
+    "loan_amount": 111500,
+    "purpose": "debt consolidation",
+    "debt": 3150,
+    "employment": "unemployed"
+  },
+  {
+    "id": 11,
+    "name": "Grace Rodriguez",
+    "state": "FL",
+    "income": 95000,
+    "loan_amount": 385000,
+    "purpose": "debt consolidation",
+    "debt": 3700,
+    "employment": "unemployed"
+  },
+  {
+    "id": 12,
+    "name": "Carlos Patel",
+    "state": "IL",
+    "income": null,
+    "loan_amount": 59000,
+    "purpose": "auto loan",
+    "debt": 950,
+    "employment": "unemployed"
+  },
+  {
+    "id": 13,
+    "name": "Emma Patel",
+    "state": "FL",
+    "income": null,
+    "loan_amount": 286000,
+    "purpose": "home purchase",
+    "debt": 50,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 14,
+    "name": "Wei Patel",
+    "state": "IL",
+    "income": 95000,
+    "loan_amount": 259000,
+    "purpose": "home improvement",
+    "debt": 1100,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 15,
+    "name": "Emma Khan",
+    "state": "IL",
+    "income": 123000,
+    "loan_amount": 393000,
+    "purpose": "home improvement",
+    "debt": 1000,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 16,
+    "name": "James Ali",
+    "state": "WI",
+    "income": 89000,
+    "loan_amount": 32500,
+    "purpose": "home improvement",
+    "debt": 1500,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 17,
+    "name": "Daniel Rodriguez",
+    "state": "IL",
+    "income": 60000,
+    "loan_amount": 340500,
+    "purpose": "home improvement",
+    "debt": 3000,
+    "employment": "self-employed"
+  },
+  {
+    "id": 18,
+    "name": "Noah Khan",
+    "state": "FL",
+    "income": 79000,
+    "loan_amount": 368000,
+    "purpose": "debt consolidation",
+    "debt": 1950,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 19,
+    "name": "James Khan",
+    "state": "IL",
+    "income": 44000,
+    "loan_amount": 176000,
+    "purpose": "home improvement",
+    "debt": 100,
+    "employment": "self-employed"
+  },
+  {
+    "id": 20,
+    "name": "Grace Brown",
+    "state": "IL",
+    "income": 86000,
+    "loan_amount": 37500,
+    "purpose": "small business expansion",
+    "debt": 200,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 21,
+    "name": "Priya Khan",
+    "state": "FL",
+    "income": 61000,
+    "loan_amount": 373000,
+    "purpose": "home improvement",
+    "debt": 3650,
+    "employment": "unemployed"
+  },
+  {
+    "id": 22,
+    "name": "Fatima Smith",
+    "state": "IL",
+    "income": 138000,
+    "loan_amount": 184000,
+    "purpose": "debt consolidation",
+    "debt": 2700,
+    "employment": "unemployed"
+  },
+  {
+    "id": 23,
+    "name": "James Garcia",
+    "state": "WI",
+    "income": 114000,
+    "loan_amount": 58500,
+    "purpose": "auto loan",
+    "debt": 1550,
+    "employment": "self-employed"
+  },
+  {
+    "id": 24,
+    "name": "Wei Murphy",
+    "state": "WI",
+    "income": 91000,
+    "loan_amount": 41500,
+    "purpose": "home improvement",
+    "debt": 2800,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 25,
+    "name": "Sofia Garcia",
+    "state": "IL",
+    "income": 88000,
+    "loan_amount": 88000,
+    "purpose": "debt consolidation",
+    "debt": 2600,
+    "employment": "unemployed"
+  },
+  {
+    "id": 26,
+    "name": "Wei Johnson",
+    "state": "IL",
+    "income": 127000,
+    "loan_amount": 138500,
+    "purpose": "small business expansion",
+    "debt": 2900,
+    "employment": "unemployed"
+  },
+  {
+    "id": 27,
+    "name": "Wei Khan",
+    "state": "WI",
+    "income": null,
+    "loan_amount": 32500,
+    "purpose": "home improvement",
+    "debt": 3700,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 28,
+    "name": "Priya Rodriguez",
+    "state": "FL",
+    "income": 68000,
+    "loan_amount": 32000,
+    "purpose": "home purchase",
+    "debt": 3250,
+    "employment": "self-employed"
+  },
+  {
+    "id": 29,
+    "name": "Sofia Khan",
+    "state": "WI",
+    "income": null,
+    "loan_amount": 294500,
+    "purpose": "home improvement",
+    "debt": 1550,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 30,
+    "name": "Emma Novak",
+    "state": "FL",
+    "income": 108000,
+    "loan_amount": 136500,
+    "purpose": "small business expansion",
+    "debt": 1300,
+    "employment": "self-employed"
+  },
+  {
+    "id": 31,
+    "name": "Yusuf Murphy",
+    "state": "WI",
+    "income": 108000,
+    "loan_amount": 387500,
+    "purpose": "home purchase",
+    "debt": 450,
+    "employment": "unemployed"
+  },
+  {
+    "id": 32,
+    "name": "James Rodriguez",
+    "state": "IL",
+    "income": 157000,
+    "loan_amount": 138500,
+    "purpose": "small business expansion",
+    "debt": 800,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 33,
+    "name": "Priya Nguyen",
+    "state": "FL",
+    "income": 105000,
+    "loan_amount": 316000,
+    "purpose": "home purchase",
+    "debt": 3350,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 34,
+    "name": "Liam Smith",
+    "state": "IL",
+    "income": 67000,
+    "loan_amount": 142000,
+    "purpose": "home improvement",
+    "debt": 1800,
+    "employment": "self-employed"
+  },
+  {
+    "id": 35,
+    "name": "Sofia Murphy",
+    "state": "FL",
+    "income": null,
+    "loan_amount": 131500,
+    "purpose": "home purchase",
+    "debt": 300,
+    "employment": "unemployed"
+  },
+  {
+    "id": 36,
+    "name": "Daniel Chen",
+    "state": "FL",
+    "income": null,
+    "loan_amount": 85500,
+    "purpose": "home improvement",
+    "debt": 2800,
+    "employment": "unemployed"
+  },
+  {
+    "id": 37,
+    "name": "Grace Chen",
+    "state": "FL",
+    "income": 37000,
+    "loan_amount": 192000,
+    "purpose": "home improvement",
+    "debt": 3700,
+    "employment": "self-employed"
+  },
+  {
+    "id": 38,
+    "name": "Aisha Lopez",
+    "state": "IL",
+    "income": 119000,
+    "loan_amount": 110500,
+    "purpose": "home purchase",
+    "debt": 1550,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 39,
+    "name": "Emma Kim",
+    "state": "IL",
+    "income": 88000,
+    "loan_amount": 86000,
+    "purpose": "debt consolidation",
+    "debt": 1100,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 40,
+    "name": "Daniel Johnson",
+    "state": "FL",
+    "income": 91000,
+    "loan_amount": 139500,
+    "purpose": "home purchase",
+    "debt": 1000,
+    "employment": "unemployed"
+  },
+  {
+    "id": 41,
+    "name": "Fatima Nguyen",
+    "state": "WI",
+    "income": 117000,
+    "loan_amount": 159000,
+    "purpose": "auto loan",
+    "debt": 1450,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 42,
+    "name": "Sofia Smith",
+    "state": "WI",
+    "income": null,
+    "loan_amount": 331000,
+    "purpose": "debt consolidation",
+    "debt": 3250,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 43,
+    "name": "Wei Novak",
+    "state": "WI",
+    "income": 37000,
+    "loan_amount": 58500,
+    "purpose": "debt consolidation",
+    "debt": 3800,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 44,
+    "name": "James Johnson",
+    "state": "FL",
+    "income": 76000,
+    "loan_amount": 133000,
+    "purpose": "debt consolidation",
+    "debt": 250,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 45,
+    "name": "Yusuf Kim",
+    "state": "FL",
+    "income": 78000,
+    "loan_amount": 189000,
+    "purpose": "home purchase",
+    "debt": 2750,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 46,
+    "name": "Grace Murphy",
+    "state": "FL",
+    "income": 107000,
+    "loan_amount": 344000,
+    "purpose": "small business expansion",
+    "debt": 2600,
+    "employment": "unemployed"
+  },
+  {
+    "id": 47,
+    "name": "Noah Brown",
+    "state": "WI",
+    "income": 72000,
+    "loan_amount": 318000,
+    "purpose": "small business expansion",
+    "debt": 3600,
+    "employment": "unemployed"
+  },
+  {
+    "id": 48,
+    "name": "Liam Khan",
+    "state": "WI",
+    "income": 110000,
+    "loan_amount": 241000,
+    "purpose": "debt consolidation",
+    "debt": 2800,
+    "employment": "self-employed"
+  },
+  {
+    "id": 49,
+    "name": "Wei Brown",
+    "state": "IL",
+    "income": 100000,
+    "loan_amount": 266500,
+    "purpose": "small business expansion",
+    "debt": 3950,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 50,
+    "name": "Daniel Khan",
+    "state": "IL",
+    "income": 34000,
+    "loan_amount": 26500,
+    "purpose": "debt consolidation",
+    "debt": 1550,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 51,
+    "name": "Emma Khan",
+    "state": "FL",
+    "income": 126000,
+    "loan_amount": 256000,
+    "purpose": "auto loan",
+    "debt": 2550,
+    "employment": "self-employed"
+  },
+  {
+    "id": 52,
+    "name": "Daniel Johnson",
+    "state": "IL",
+    "income": 73000,
+    "loan_amount": 359000,
+    "purpose": "debt consolidation",
+    "debt": 3300,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 53,
+    "name": "Priya Chen",
+    "state": "WI",
+    "income": 163000,
+    "loan_amount": 289000,
+    "purpose": "small business expansion",
+    "debt": 3800,
+    "employment": "unemployed"
+  },
+  {
+    "id": 54,
+    "name": "Noah Nguyen",
+    "state": "FL",
+    "income": 142000,
+    "loan_amount": 84000,
+    "purpose": "debt consolidation",
+    "debt": 3000,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 55,
+    "name": "Daniel Lopez",
+    "state": "FL",
+    "income": 152000,
+    "loan_amount": 323500,
+    "purpose": "small business expansion",
+    "debt": 1500,
+    "employment": "unemployed"
+  },
+  {
+    "id": 56,
+    "name": "Liam Ali",
+    "state": "WI",
+    "income": 48000,
+    "loan_amount": 73500,
+    "purpose": "auto loan",
+    "debt": 950,
+    "employment": "unemployed"
+  },
+  {
+    "id": 57,
+    "name": "Noah Johnson",
+    "state": "WI",
+    "income": 147000,
+    "loan_amount": 215500,
+    "purpose": "auto loan",
+    "debt": 350,
+    "employment": "unemployed"
+  },
+  {
+    "id": 58,
+    "name": "Grace Garcia",
+    "state": "FL",
+    "income": 125000,
+    "loan_amount": 247000,
+    "purpose": "small business expansion",
+    "debt": 0,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 59,
+    "name": "Carlos Kim",
+    "state": "FL",
+    "income": null,
+    "loan_amount": 252500,
+    "purpose": "small business expansion",
+    "debt": 1400,
+    "employment": "unemployed"
+  },
+  {
+    "id": 60,
+    "name": "Yusuf Brown",
+    "state": "WI",
+    "income": 70000,
+    "loan_amount": 242000,
+    "purpose": "home improvement",
+    "debt": 800,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 61,
+    "name": "Maria Smith",
+    "state": "FL",
+    "income": 137000,
+    "loan_amount": 72000,
+    "purpose": "auto loan",
+    "debt": 2950,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 62,
+    "name": "Priya Ali",
+    "state": "WI",
+    "income": null,
+    "loan_amount": 145000,
+    "purpose": "small business expansion",
+    "debt": 2650,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 63,
+    "name": "Maria Ali",
+    "state": "IL",
+    "income": 45000,
+    "loan_amount": 336500,
+    "purpose": "home purchase",
+    "debt": 250,
+    "employment": "self-employed"
+  },
+  {
+    "id": 64,
+    "name": "Wei Khan",
+    "state": "IL",
+    "income": 149000,
+    "loan_amount": 345500,
+    "purpose": "home improvement",
+    "debt": 700,
+    "employment": "self-employed"
+  },
+  {
+    "id": 65,
+    "name": "Wei Novak",
+    "state": "FL",
+    "income": 57000,
+    "loan_amount": 86500,
+    "purpose": "home purchase",
+    "debt": 1950,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 66,
+    "name": "Noah Kim",
+    "state": "IL",
+    "income": 47000,
+    "loan_amount": 306000,
+    "purpose": "home purchase",
+    "debt": 1550,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 67,
+    "name": "Daniel Garcia",
+    "state": "WI",
+    "income": 164000,
+    "loan_amount": 222000,
+    "purpose": "home purchase",
+    "debt": 2350,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 68,
+    "name": "James Johnson",
+    "state": "WI",
+    "income": 145000,
+    "loan_amount": 365000,
+    "purpose": "debt consolidation",
+    "debt": 950,
+    "employment": "self-employed"
+  },
+  {
+    "id": 69,
+    "name": "Emma Lopez",
+    "state": "FL",
+    "income": 151000,
+    "loan_amount": 241000,
+    "purpose": "home improvement",
+    "debt": 2750,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 70,
+    "name": "Liam Patel",
+    "state": "IL",
+    "income": 146000,
+    "loan_amount": 294500,
+    "purpose": "debt consolidation",
+    "debt": 3900,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 71,
+    "name": "Wei Patel",
+    "state": "IL",
+    "income": null,
+    "loan_amount": 135000,
+    "purpose": "small business expansion",
+    "debt": 2150,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 72,
+    "name": "James Khan",
+    "state": "FL",
+    "income": 132000,
+    "loan_amount": 253000,
+    "purpose": "auto loan",
+    "debt": 3550,
+    "employment": "unemployed"
+  },
+  {
+    "id": 73,
+    "name": "James Murphy",
+    "state": "IL",
+    "income": 131000,
+    "loan_amount": 357000,
+    "purpose": "small business expansion",
+    "debt": 1550,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 74,
+    "name": "Noah Kim",
+    "state": "FL",
+    "income": 112000,
+    "loan_amount": 183000,
+    "purpose": "small business expansion",
+    "debt": 2900,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 75,
+    "name": "Fatima Ali",
+    "state": "IL",
+    "income": 75000,
+    "loan_amount": 101000,
+    "purpose": "debt consolidation",
+    "debt": 1350,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 76,
+    "name": "Emma Murphy",
+    "state": "IL",
+    "income": null,
+    "loan_amount": 154500,
+    "purpose": "small business expansion",
+    "debt": 1450,
+    "employment": "self-employed"
+  },
+  {
+    "id": 77,
+    "name": "Wei Murphy",
+    "state": "IL",
+    "income": 41000,
+    "loan_amount": 286000,
+    "purpose": "auto loan",
+    "debt": 1850,
+    "employment": "unemployed"
+  },
+  {
+    "id": 78,
+    "name": "Liam Patel",
+    "state": "WI",
+    "income": null,
+    "loan_amount": 177000,
+    "purpose": "home purchase",
+    "debt": 1150,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 79,
+    "name": "Noah Patel",
+    "state": "IL",
+    "income": 41000,
+    "loan_amount": 80500,
+    "purpose": "home improvement",
+    "debt": 950,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 80,
+    "name": "Carlos Lopez",
+    "state": "WI",
+    "income": 85000,
+    "loan_amount": 270500,
+    "purpose": "debt consolidation",
+    "debt": 2400,
+    "employment": "unemployed"
+  },
+  {
+    "id": 81,
+    "name": "Liam Novak",
+    "state": "FL",
+    "income": 43000,
+    "loan_amount": 315000,
+    "purpose": "auto loan",
+    "debt": 600,
+    "employment": "self-employed"
+  },
+  {
+    "id": 82,
+    "name": "Fatima Chen",
+    "state": "FL",
+    "income": 47000,
+    "loan_amount": 83000,
+    "purpose": "debt consolidation",
+    "debt": 0,
+    "employment": "unemployed"
+  },
+  {
+    "id": 83,
+    "name": "Fatima Murphy",
+    "state": "FL",
+    "income": 100000,
+    "loan_amount": 362500,
+    "purpose": "home purchase",
+    "debt": 2900,
+    "employment": "self-employed"
+  },
+  {
+    "id": 84,
+    "name": "Emma Brown",
+    "state": "IL",
+    "income": 136000,
+    "loan_amount": 61500,
+    "purpose": "auto loan",
+    "debt": 3450,
+    "employment": "self-employed"
+  },
+  {
+    "id": 85,
+    "name": "Maria Chen",
+    "state": "WI",
+    "income": 101000,
+    "loan_amount": 227500,
+    "purpose": "debt consolidation",
+    "debt": 750,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 86,
+    "name": "Carlos Patel",
+    "state": "WI",
+    "income": 48000,
+    "loan_amount": 309000,
+    "purpose": "debt consolidation",
+    "debt": 250,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 87,
+    "name": "Fatima Brown",
+    "state": "FL",
+    "income": 33000,
+    "loan_amount": 394500,
+    "purpose": "home improvement",
+    "debt": 1700,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 88,
+    "name": "Priya Murphy",
+    "state": "IL",
+    "income": 139000,
+    "loan_amount": 328000,
+    "purpose": "home purchase",
+    "debt": 3100,
+    "employment": "unemployed"
+  },
+  {
+    "id": 89,
+    "name": "Yusuf Smith",
+    "state": "IL",
+    "income": null,
+    "loan_amount": 213500,
+    "purpose": "small business expansion",
+    "debt": 3150,
+    "employment": "unemployed"
+  },
+  {
+    "id": 90,
+    "name": "Aisha Murphy",
+    "state": "WI",
+    "income": 57000,
+    "loan_amount": 398500,
+    "purpose": "home improvement",
+    "debt": 2550,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 91,
+    "name": "Fatima Rodriguez",
+    "state": "WI",
+    "income": 155000,
+    "loan_amount": 323000,
+    "purpose": "home purchase",
+    "debt": 2800,
+    "employment": "self-employed"
+  },
+  {
+    "id": 92,
+    "name": "Priya Kim",
+    "state": "WI",
+    "income": 59000,
+    "loan_amount": 17500,
+    "purpose": "auto loan",
+    "debt": 3850,
+    "employment": "self-employed"
+  },
+  {
+    "id": 93,
+    "name": "Noah Smith",
+    "state": "IL",
+    "income": 57000,
+    "loan_amount": 239000,
+    "purpose": "auto loan",
+    "debt": 750,
+    "employment": "unemployed"
+  },
+  {
+    "id": 94,
+    "name": "Noah Nguyen",
+    "state": "WI",
+    "income": 148000,
+    "loan_amount": 127500,
+    "purpose": "home improvement",
+    "debt": 2900,
+    "employment": "self-employed"
+  },
+  {
+    "id": 95,
+    "name": "Carlos Kim",
+    "state": "IL",
+    "income": 45000,
+    "loan_amount": 144000,
+    "purpose": "small business expansion",
+    "debt": 2650,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 96,
+    "name": "Sofia Novak",
+    "state": "FL",
+    "income": 153000,
+    "loan_amount": 79000,
+    "purpose": "home improvement",
+    "debt": 2850,
+    "employment": "unemployed"
+  },
+  {
+    "id": 97,
+    "name": "Noah Patel",
+    "state": "WI",
+    "income": 76000,
+    "loan_amount": 360000,
+    "purpose": "home improvement",
+    "debt": 1500,
+    "employment": "unemployed"
+  },
+  {
+    "id": 98,
+    "name": "Maria Ali",
+    "state": "FL",
+    "income": 149000,
+    "loan_amount": 364000,
+    "purpose": "debt consolidation",
+    "debt": 2400,
+    "employment": "self-employed"
+  },
+  {
+    "id": 99,
+    "name": "Carlos Novak",
+    "state": "WI",
+    "income": 53000,
+    "loan_amount": 228000,
+    "purpose": "home improvement",
+    "debt": 600,
+    "employment": "unemployed"
+  },
+  {
+    "id": 100,
+    "name": "Sofia Brown",
+    "state": "IL",
+    "income": 47000,
+    "loan_amount": 243000,
+    "purpose": "small business expansion",
+    "debt": 1650,
+    "employment": "unemployed"
+  },
+  {
+    "id": 101,
+    "name": "Sofia Rodriguez",
+    "state": "WI",
+    "income": null,
+    "loan_amount": 323500,
+    "purpose": "home improvement",
+    "debt": 3100,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 102,
+    "name": "Yusuf Murphy",
+    "state": "IL",
+    "income": 51000,
+    "loan_amount": 225000,
+    "purpose": "home purchase",
+    "debt": 600,
+    "employment": "unemployed"
+  },
+  {
+    "id": 103,
+    "name": "Maria Ali",
+    "state": "IL",
+    "income": 103000,
+    "loan_amount": 186500,
+    "purpose": "debt consolidation",
+    "debt": 2350,
+    "employment": "self-employed"
+  },
+  {
+    "id": 104,
+    "name": "Yusuf Lopez",
+    "state": "IL",
+    "income": 71000,
+    "loan_amount": 92500,
+    "purpose": "home improvement",
+    "debt": 500,
+    "employment": "unemployed"
+  },
+  {
+    "id": 105,
+    "name": "Emma Chen",
+    "state": "IL",
+    "income": 146000,
+    "loan_amount": 329500,
+    "purpose": "debt consolidation",
+    "debt": 1600,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 106,
+    "name": "Liam Brown",
+    "state": "FL",
+    "income": 68000,
+    "loan_amount": 40500,
+    "purpose": "small business expansion",
+    "debt": 2800,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 107,
+    "name": "Sofia Murphy",
+    "state": "IL",
+    "income": 126000,
+    "loan_amount": 250000,
+    "purpose": "auto loan",
+    "debt": 650,
+    "employment": "unemployed"
+  },
+  {
+    "id": 108,
+    "name": "Grace Murphy",
+    "state": "IL",
+    "income": 129000,
+    "loan_amount": 143500,
+    "purpose": "home improvement",
+    "debt": 50,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 109,
+    "name": "Daniel Lopez",
+    "state": "IL",
+    "income": 118000,
+    "loan_amount": 115000,
+    "purpose": "home improvement",
+    "debt": 1200,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 110,
+    "name": "Yusuf Garcia",
+    "state": "WI",
+    "income": 140000,
+    "loan_amount": 20000,
+    "purpose": "small business expansion",
+    "debt": 3700,
+    "employment": "self-employed"
+  },
+  {
+    "id": 111,
+    "name": "Grace Johnson",
+    "state": "IL",
+    "income": 79000,
+    "loan_amount": 70500,
+    "purpose": "small business expansion",
+    "debt": 3450,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 112,
+    "name": "Daniel Murphy",
+    "state": "FL",
+    "income": 114000,
+    "loan_amount": 61500,
+    "purpose": "home purchase",
+    "debt": 2950,
+    "employment": "self-employed"
+  },
+  {
+    "id": 113,
+    "name": "Yusuf Johnson",
+    "state": "FL",
+    "income": 121000,
+    "loan_amount": 49000,
+    "purpose": "home purchase",
+    "debt": 2500,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 114,
+    "name": "Yusuf Kim",
+    "state": "FL",
+    "income": 95000,
+    "loan_amount": 302000,
+    "purpose": "small business expansion",
+    "debt": 2400,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 115,
+    "name": "Carlos Ali",
+    "state": "FL",
+    "income": null,
+    "loan_amount": 334500,
+    "purpose": "debt consolidation",
+    "debt": 400,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 116,
+    "name": "Maria Murphy",
+    "state": "WI",
+    "income": 57000,
+    "loan_amount": 52500,
+    "purpose": "home improvement",
+    "debt": 1500,
+    "employment": "self-employed"
+  },
+  {
+    "id": 117,
+    "name": "Grace Kim",
+    "state": "FL",
+    "income": 135000,
+    "loan_amount": 303500,
+    "purpose": "debt consolidation",
+    "debt": 950,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 118,
+    "name": "Maria Kim",
+    "state": "WI",
+    "income": 83000,
+    "loan_amount": 230000,
+    "purpose": "auto loan",
+    "debt": 2800,
+    "employment": "employed part-time"
+  },
+  {
+    "id": 119,
+    "name": "Carlos Brown",
+    "state": "WI",
+    "income": null,
+    "loan_amount": 206500,
+    "purpose": "auto loan",
+    "debt": 1750,
+    "employment": "employed full-time"
+  },
+  {
+    "id": 120,
+    "name": "Yusuf Brown",
+    "state": "FL",
+    "income": 33000,
+    "loan_amount": 28500,
+    "purpose": "auto loan",
+    "debt": 2100,
+    "employment": "self-employed"
+  }
+]
