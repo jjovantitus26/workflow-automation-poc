@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Aisha Murphy
+State: WI
+Annual Income: $57,000
+Requested Loan Amount: $398,500
+Purpose: home improvement
+Existing Monthly Debt Payments: $2,550
+Employment Status: employed full-time
+Notes: 

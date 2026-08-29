@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Daniel Johnson
+State: FL
+Annual Income: $91,000
+Requested Loan Amount: $139,500
+Purpose: home purchase
+Existing Monthly Debt Payments: $1,000
+Employment Status: unemployed
+Notes: No additional notes.

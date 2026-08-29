@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Wei Brown
+State: IL
+Annual Income: $100,000
+Requested Loan Amount: $266,500
+Purpose: small business expansion
+Existing Monthly Debt Payments: $3,950
+Employment Status: employed full-time
+Notes: Applicant mentioned a recent job change.

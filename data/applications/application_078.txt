@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Liam Patel
+State: WI
+Annual Income: $
+Requested Loan Amount: $177,000
+Purpose: home purchase
+Existing Monthly Debt Payments: $1,150
+Employment Status: employed part-time
+Notes: Applicant is a first-time borrower.

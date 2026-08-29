@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Sofia Garcia
+State: IL
+Annual Income: $88,000
+Requested Loan Amount: $88,000
+Purpose: debt consolidation
+Existing Monthly Debt Payments: $2,600
+Employment Status: unemployed
+Notes: Applicant mentioned a recent job change.

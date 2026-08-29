@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Noah Patel
+State: IL
+Annual Income: $41,000
+Requested Loan Amount: $80,500
+Purpose: home improvement
+Existing Monthly Debt Payments: $950
+Employment Status: employed part-time
+Notes: No additional notes.

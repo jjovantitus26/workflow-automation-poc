@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Daniel Lopez
+State: FL
+Annual Income: $152,000
+Requested Loan Amount: $323,500
+Purpose: small business expansion
+Existing Monthly Debt Payments: $1,500
+Employment Status: unemployed
+Notes: No additional notes.

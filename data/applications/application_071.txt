@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Wei Patel
+State: IL
+Annual Income: $
+Requested Loan Amount: $135,000
+Purpose: small business expansion
+Existing Monthly Debt Payments: $2,150
+Employment Status: employed part-time
+Notes: 

@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: James Ali
+State: WI
+Annual Income: $89,000
+Requested Loan Amount: $32,500
+Purpose: home improvement
+Existing Monthly Debt Payments: $1,500
+Employment Status: employed full-time
+Notes: No additional notes.

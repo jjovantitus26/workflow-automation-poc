@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Liam Novak
+State: FL
+Annual Income: $43,000
+Requested Loan Amount: $315,000
+Purpose: auto loan
+Existing Monthly Debt Payments: $600
+Employment Status: self-employed
+Notes: Co-signer may be available if needed.

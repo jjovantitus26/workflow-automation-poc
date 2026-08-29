@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: James Khan
+State: FL
+Annual Income: $132,000
+Requested Loan Amount: $253,000
+Purpose: auto loan
+Existing Monthly Debt Payments: $3,550
+Employment Status: unemployed
+Notes: Applicant is a first-time borrower.

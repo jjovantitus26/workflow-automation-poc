@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Grace Rodriguez
+State: FL
+Annual Income: $95,000
+Requested Loan Amount: $385,000
+Purpose: debt consolidation
+Existing Monthly Debt Payments: $3,700
+Employment Status: unemployed
+Notes: Co-signer may be available if needed.

@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Emma Nguyen
+State: WI
+Annual Income: $77,000
+Requested Loan Amount: $363,500
+Purpose: home purchase
+Existing Monthly Debt Payments: $400
+Employment Status: self-employed
+Notes: Co-signer may be available if needed.

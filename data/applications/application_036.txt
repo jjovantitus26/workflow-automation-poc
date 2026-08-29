@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Daniel Chen
+State: FL
+Annual Income: $
+Requested Loan Amount: $85,500
+Purpose: home improvement
+Existing Monthly Debt Payments: $2,800
+Employment Status: unemployed
+Notes: 

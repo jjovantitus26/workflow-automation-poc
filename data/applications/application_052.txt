@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Daniel Johnson
+State: IL
+Annual Income: $73,000
+Requested Loan Amount: $359,000
+Purpose: debt consolidation
+Existing Monthly Debt Payments: $3,300
+Employment Status: employed full-time
+Notes: 

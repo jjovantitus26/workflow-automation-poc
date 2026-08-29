@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Maria Smith
+State: FL
+Annual Income: $137,000
+Requested Loan Amount: $72,000
+Purpose: auto loan
+Existing Monthly Debt Payments: $2,950
+Employment Status: employed full-time
+Notes: Co-signer may be available if needed.

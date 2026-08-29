@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Emma Lopez
+State: FL
+Annual Income: $151,000
+Requested Loan Amount: $241,000
+Purpose: home improvement
+Existing Monthly Debt Payments: $2,750
+Employment Status: employed part-time
+Notes: Co-signer may be available if needed.

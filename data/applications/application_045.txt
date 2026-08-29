@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Yusuf Kim
+State: FL
+Annual Income: $78,000
+Requested Loan Amount: $189,000
+Purpose: home purchase
+Existing Monthly Debt Payments: $2,750
+Employment Status: employed part-time
+Notes: 

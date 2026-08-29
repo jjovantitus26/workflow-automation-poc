@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Priya Nguyen
+State: FL
+Annual Income: $105,000
+Requested Loan Amount: $316,000
+Purpose: home purchase
+Existing Monthly Debt Payments: $3,350
+Employment Status: employed part-time
+Notes: No additional notes.

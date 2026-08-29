@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Yusuf Murphy
+State: WI
+Annual Income: $108,000
+Requested Loan Amount: $387,500
+Purpose: home purchase
+Existing Monthly Debt Payments: $450
+Employment Status: unemployed
+Notes: 

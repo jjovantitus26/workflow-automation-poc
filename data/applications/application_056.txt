@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Liam Ali
+State: WI
+Annual Income: $48,000
+Requested Loan Amount: $73,500
+Purpose: auto loan
+Existing Monthly Debt Payments: $950
+Employment Status: unemployed
+Notes: Applicant mentioned a recent job change.

@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Grace Murphy
+State: FL
+Annual Income: $107,000
+Requested Loan Amount: $344,000
+Purpose: small business expansion
+Existing Monthly Debt Payments: $2,600
+Employment Status: unemployed
+Notes: Co-signer may be available if needed.

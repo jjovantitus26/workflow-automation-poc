@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Emma Khan
+State: FL
+Annual Income: $126,000
+Requested Loan Amount: $256,000
+Purpose: auto loan
+Existing Monthly Debt Payments: $2,550
+Employment Status: self-employed
+Notes: No additional notes.

@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Fatima Chen
+State: FL
+Annual Income: $47,000
+Requested Loan Amount: $83,000
+Purpose: debt consolidation
+Existing Monthly Debt Payments: $0
+Employment Status: unemployed
+Notes: 

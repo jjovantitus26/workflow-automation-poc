@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Maria Ali
+State: FL
+Annual Income: $149,000
+Requested Loan Amount: $364,000
+Purpose: debt consolidation
+Existing Monthly Debt Payments: $2,400
+Employment Status: self-employed
+Notes: Applicant is a first-time borrower.

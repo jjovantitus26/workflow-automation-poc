@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: James Khan
+State: IL
+Annual Income: $44,000
+Requested Loan Amount: $176,000
+Purpose: home improvement
+Existing Monthly Debt Payments: $100
+Employment Status: self-employed
+Notes: 

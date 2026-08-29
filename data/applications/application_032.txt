@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: James Rodriguez
+State: IL
+Annual Income: $157,000
+Requested Loan Amount: $138,500
+Purpose: small business expansion
+Existing Monthly Debt Payments: $800
+Employment Status: employed full-time
+Notes: Applicant mentioned a recent job change.

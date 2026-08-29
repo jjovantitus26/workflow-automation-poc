@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Emma Khan
+State: IL
+Annual Income: $123,000
+Requested Loan Amount: $393,000
+Purpose: home improvement
+Existing Monthly Debt Payments: $1,000
+Employment Status: employed full-time
+Notes: 

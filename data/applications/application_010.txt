@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Liam Smith
+State: IL
+Annual Income: $108,000
+Requested Loan Amount: $111,500
+Purpose: debt consolidation
+Existing Monthly Debt Payments: $3,150
+Employment Status: unemployed
+Notes: Applicant mentioned a recent job change.

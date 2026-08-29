@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Carlos Patel
+State: WI
+Annual Income: $48,000
+Requested Loan Amount: $309,000
+Purpose: debt consolidation
+Existing Monthly Debt Payments: $250
+Employment Status: employed part-time
+Notes: 

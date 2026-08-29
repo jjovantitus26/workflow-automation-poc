@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Emma Brown
+State: IL
+Annual Income: $136,000
+Requested Loan Amount: $61,500
+Purpose: auto loan
+Existing Monthly Debt Payments: $3,450
+Employment Status: self-employed
+Notes: Co-signer may be available if needed.

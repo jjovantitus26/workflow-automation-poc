@@ -1,0 +1,9 @@
+Loan Application Intake Form
+Applicant Name: Yusuf Smith
+State: IL
+Annual Income: $
+Requested Loan Amount: $213,500
+Purpose: small business expansion
+Existing Monthly Debt Payments: $3,150
+Employment Status: unemployed
+Notes: 
