@@ -1,0 +1,121 @@
+file,name,state,income,loan_amount,debt,purpose,employment,status,reasons
+application_001.txt,Yusuf Smith,IL,,128000,1400,,employed full-time,needs_review,Missing required field: income
+application_002.txt,Maria Garcia,IL,83000,122000,3200,home improvement,employed full-time,needs_review,Debt-to-income ratio 0.46 exceeds threshold 0.45
+application_003.txt,Grace Rodriguez,WI,84000,232500,3750,,employed full-time,needs_review,Debt-to-income ratio 0.54 exceeds threshold 0.45
+application_004.txt,Liam Chen,IL,114000,55000,550,debt consolidation,employed full-time,auto_approved,
+application_005.txt,Liam Lopez,IL,145000,277500,750,debt consolidation,employed full-time,auto_approved,
+application_006.txt,Emma Nguyen,WI,77000,363500,400,home purchase,self-employed,auto_approved,
+application_007.txt,Sofia Smith,WI,99000,235000,2300,,employed part-time,auto_approved,
+application_008.txt,Grace Brown,FL,46000,314500,1050,,self-employed,needs_review,Loan-to-income ratio 6.84 exceeds threshold 5.0
+application_009.txt,Yusuf Kim,FL,84000,353500,2050,,self-employed,auto_approved,
+application_010.txt,Liam Smith,IL,108000,111500,3150,debt consolidation,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_011.txt,Grace Rodriguez,FL,95000,385000,3700,debt consolidation,unemployed,needs_review,Debt-to-income ratio 0.47 exceeds threshold 0.45; Applicant employment status is 'unemployed'
+application_012.txt,Carlos Patel,IL,,59000,950,,unemployed,needs_review,Missing required field: income; Applicant employment status is 'unemployed'
+application_013.txt,Emma Patel,FL,,286000,50,,employed part-time,needs_review,Missing required field: income
+application_014.txt,Wei Patel,IL,95000,259000,1100,home improvement,employed full-time,auto_approved,
+application_015.txt,Emma Khan,IL,123000,393000,1000,home improvement,employed full-time,auto_approved,
+application_016.txt,James Ali,WI,89000,32500,1500,home improvement,employed full-time,auto_approved,
+application_017.txt,Daniel Rodriguez,IL,60000,340500,3000,home improvement,self-employed,needs_review,Debt-to-income ratio 0.60 exceeds threshold 0.45; Loan-to-income ratio 5.67 exceeds threshold 5.0
+application_018.txt,Noah Khan,FL,79000,368000,1950,,employed part-time,auto_approved,
+application_019.txt,James Khan,IL,44000,176000,100,home improvement,self-employed,auto_approved,
+application_020.txt,Grace Brown,IL,86000,37500,200,small business expansion,employed full-time,auto_approved,
+application_021.txt,Priya Khan,FL,61000,373000,3650,,unemployed,needs_review,Debt-to-income ratio 0.72 exceeds threshold 0.45; Loan-to-income ratio 6.11 exceeds threshold 5.0; Applicant employment status is 'unemployed'
+application_022.txt,Fatima Smith,IL,138000,184000,2700,debt consolidation,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_023.txt,James Garcia,WI,114000,58500,1550,,self-employed,auto_approved,
+application_024.txt,Wei Murphy,WI,91000,41500,2800,home improvement,employed full-time,auto_approved,
+application_025.txt,Sofia Garcia,IL,88000,88000,2600,debt consolidation,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_026.txt,Wei Johnson,IL,127000,138500,2900,,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_027.txt,Wei Khan,WI,,32500,3700,home improvement,employed full-time,needs_review,Missing required field: income
+application_028.txt,Priya Rodriguez,FL,68000,32000,3250,home purchase,self-employed,needs_review,Debt-to-income ratio 0.57 exceeds threshold 0.45
+application_029.txt,Sofia Khan,WI,,294500,1550,home improvement,employed full-time,needs_review,Missing required field: income
+application_030.txt,Emma Novak,FL,108000,136500,1300,small business expansion,self-employed,auto_approved,
+application_031.txt,Yusuf Murphy,WI,108000,387500,450,home purchase,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_032.txt,James Rodriguez,IL,157000,138500,800,small business expansion,employed full-time,auto_approved,
+application_033.txt,Priya Nguyen,FL,105000,316000,3350,home purchase,employed part-time,auto_approved,
+application_034.txt,Liam Smith,IL,67000,142000,1800,home improvement,self-employed,auto_approved,
+application_035.txt,Sofia Murphy,FL,,131500,300,,unemployed,needs_review,Missing required field: income; Applicant employment status is 'unemployed'
+application_036.txt,Daniel Chen,FL,,85500,2800,home improvement,unemployed,needs_review,Missing required field: income; Applicant employment status is 'unemployed'
+application_037.txt,Grace Chen,FL,37000,192000,3700,,self-employed,needs_review,Debt-to-income ratio 1.20 exceeds threshold 0.45; Loan-to-income ratio 5.19 exceeds threshold 5.0
+application_038.txt,Aisha Lopez,IL,119000,110500,1550,,employed part-time,auto_approved,
+application_039.txt,Emma Kim,IL,88000,86000,1100,,employed full-time,auto_approved,
+application_040.txt,Daniel Johnson,FL,91000,139500,1000,home purchase,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_041.txt,Fatima Nguyen,WI,117000,159000,1450,,employed full-time,auto_approved,
+application_042.txt,Sofia Smith,WI,,331000,3250,,employed part-time,needs_review,Missing required field: income
+application_043.txt,Wei Novak,WI,37000,58500,3800,debt consolidation,employed part-time,needs_review,Debt-to-income ratio 1.23 exceeds threshold 0.45
+application_044.txt,James Johnson,FL,76000,133000,250,debt consolidation,employed full-time,auto_approved,
+application_045.txt,Yusuf Kim,FL,78000,189000,2750,home purchase,employed part-time,auto_approved,
+application_046.txt,Grace Murphy,FL,107000,344000,2600,small business expansion,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_047.txt,Noah Brown,WI,72000,318000,3600,,unemployed,needs_review,Debt-to-income ratio 0.60 exceeds threshold 0.45; Applicant employment status is 'unemployed'
+application_048.txt,Liam Khan,WI,110000,241000,2800,debt consolidation,self-employed,auto_approved,
+application_049.txt,Wei Brown,IL,100000,266500,3950,small business expansion,employed full-time,needs_review,Debt-to-income ratio 0.47 exceeds threshold 0.45
+application_050.txt,Daniel Khan,IL,34000,26500,1550,debt consolidation,employed full-time,needs_review,Debt-to-income ratio 0.55 exceeds threshold 0.45
+application_051.txt,Emma Khan,FL,126000,256000,2550,auto loan,self-employed,auto_approved,
+application_052.txt,Daniel Johnson,IL,73000,359000,3300,debt consolidation,employed full-time,needs_review,Debt-to-income ratio 0.54 exceeds threshold 0.45
+application_053.txt,Priya Chen,WI,163000,289000,3800,small business expansion,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_054.txt,Noah Nguyen,FL,142000,84000,3000,,employed part-time,auto_approved,
+application_055.txt,Daniel Lopez,FL,152000,323500,1500,small business expansion,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_056.txt,Liam Ali,WI,48000,73500,950,auto loan,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_057.txt,Noah Johnson,WI,147000,215500,350,auto loan,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_058.txt,Grace Garcia,FL,125000,247000,0,,employed part-time,auto_approved,
+application_059.txt,Carlos Kim,FL,,252500,1400,,unemployed,needs_review,Missing required field: income; Applicant employment status is 'unemployed'
+application_060.txt,Yusuf Brown,WI,70000,242000,800,home improvement,employed full-time,auto_approved,
+application_061.txt,Maria Smith,FL,137000,72000,2950,auto loan,employed full-time,auto_approved,
+application_062.txt,Priya Ali,WI,,145000,2650,small business expansion,employed full-time,needs_review,Missing required field: income
+application_063.txt,Maria Ali,IL,45000,336500,250,home purchase,self-employed,needs_review,Loan-to-income ratio 7.48 exceeds threshold 5.0
+application_064.txt,Wei Khan,IL,149000,345500,700,,self-employed,auto_approved,
+application_065.txt,Wei Novak,FL,57000,86500,1950,,employed full-time,auto_approved,
+application_066.txt,Noah Kim,IL,47000,306000,1550,home purchase,employed part-time,needs_review,Loan-to-income ratio 6.51 exceeds threshold 5.0
+application_067.txt,Daniel Garcia,WI,164000,222000,2350,,employed part-time,auto_approved,
+application_068.txt,James Johnson,WI,145000,365000,950,,self-employed,auto_approved,
+application_069.txt,Emma Lopez,FL,151000,241000,2750,home improvement,employed part-time,auto_approved,
+application_070.txt,Liam Patel,IL,146000,294500,3900,,employed part-time,auto_approved,
+application_071.txt,Wei Patel,IL,,135000,2150,small business expansion,employed part-time,needs_review,Missing required field: income
+application_072.txt,James Khan,FL,132000,253000,3550,auto loan,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_073.txt,James Murphy,IL,131000,357000,1550,,employed part-time,auto_approved,
+application_074.txt,Noah Kim,FL,112000,183000,2900,small business expansion,employed part-time,auto_approved,
+application_075.txt,Fatima Ali,IL,75000,101000,1350,debt consolidation,employed part-time,auto_approved,
+application_076.txt,Emma Murphy,IL,,154500,1450,small business expansion,self-employed,needs_review,Missing required field: income
+application_077.txt,Wei Murphy,IL,41000,286000,1850,auto loan,unemployed,needs_review,Debt-to-income ratio 0.54 exceeds threshold 0.45; Loan-to-income ratio 6.98 exceeds threshold 5.0; Applicant employment status is 'unemployed'
+application_078.txt,Liam Patel,WI,,177000,1150,home purchase,employed part-time,needs_review,Missing required field: income
+application_079.txt,Noah Patel,IL,41000,80500,950,home improvement,employed part-time,auto_approved,
+application_080.txt,Carlos Lopez,WI,85000,270500,2400,,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_081.txt,Liam Novak,FL,43000,315000,600,auto loan,self-employed,needs_review,Loan-to-income ratio 7.33 exceeds threshold 5.0
+application_082.txt,Fatima Chen,FL,47000,83000,0,debt consolidation,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_083.txt,Fatima Murphy,FL,100000,362500,2900,home purchase,self-employed,auto_approved,
+application_084.txt,Emma Brown,IL,136000,61500,3450,auto loan,self-employed,auto_approved,
+application_085.txt,Maria Chen,WI,101000,227500,750,debt consolidation,employed part-time,auto_approved,
+application_086.txt,Carlos Patel,WI,48000,309000,250,debt consolidation,employed part-time,needs_review,Loan-to-income ratio 6.44 exceeds threshold 5.0
+application_087.txt,Fatima Brown,FL,33000,394500,1700,home improvement,employed full-time,needs_review,Debt-to-income ratio 0.62 exceeds threshold 0.45; Loan-to-income ratio 11.95 exceeds threshold 5.0
+application_088.txt,Priya Murphy,IL,139000,328000,3100,,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_089.txt,Yusuf Smith,IL,,213500,3150,small business expansion,unemployed,needs_review,Missing required field: income; Applicant employment status is 'unemployed'
+application_090.txt,Aisha Murphy,WI,57000,398500,2550,home improvement,employed full-time,needs_review,Debt-to-income ratio 0.54 exceeds threshold 0.45; Loan-to-income ratio 6.99 exceeds threshold 5.0
+application_091.txt,Fatima Rodriguez,WI,155000,323000,2800,,self-employed,auto_approved,
+application_092.txt,Priya Kim,WI,59000,17500,3850,auto loan,self-employed,needs_review,Debt-to-income ratio 0.78 exceeds threshold 0.45
+application_093.txt,Noah Smith,IL,57000,239000,750,,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_094.txt,Noah Nguyen,WI,148000,127500,2900,home improvement,self-employed,auto_approved,
+application_095.txt,Carlos Kim,IL,45000,144000,2650,,employed part-time,needs_review,Debt-to-income ratio 0.71 exceeds threshold 0.45
+application_096.txt,Sofia Novak,FL,153000,79000,2850,home improvement,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_097.txt,Noah Patel,WI,76000,360000,1500,,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_098.txt,Maria Ali,FL,149000,364000,2400,debt consolidation,self-employed,auto_approved,
+application_099.txt,Carlos Novak,WI,53000,228000,600,,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_100.txt,Sofia Brown,IL,47000,243000,1650,small business expansion,unemployed,needs_review,Loan-to-income ratio 5.17 exceeds threshold 5.0; Applicant employment status is 'unemployed'
+application_101.txt,Sofia Rodriguez,WI,,323500,3100,home improvement,employed full-time,needs_review,Missing required field: income
+application_102.txt,Yusuf Murphy,IL,51000,225000,600,home purchase,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_103.txt,Maria Ali,IL,103000,186500,2350,debt consolidation,self-employed,auto_approved,
+application_104.txt,Yusuf Lopez,IL,71000,92500,500,,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_105.txt,Emma Chen,IL,146000,329500,1600,,employed part-time,auto_approved,
+application_106.txt,Liam Brown,FL,68000,40500,2800,,employed part-time,needs_review,Debt-to-income ratio 0.49 exceeds threshold 0.45
+application_107.txt,Sofia Murphy,IL,126000,250000,650,,unemployed,needs_review,Applicant employment status is 'unemployed'
+application_108.txt,Grace Murphy,IL,129000,143500,50,,employed full-time,auto_approved,
+application_109.txt,Daniel Lopez,IL,118000,115000,1200,home improvement,employed part-time,auto_approved,
+application_110.txt,Yusuf Garcia,WI,140000,20000,3700,,self-employed,auto_approved,
+application_111.txt,Grace Johnson,IL,79000,70500,3450,,employed part-time,needs_review,Debt-to-income ratio 0.52 exceeds threshold 0.45
+application_112.txt,Daniel Murphy,FL,114000,61500,2950,home purchase,self-employed,auto_approved,
+application_113.txt,Yusuf Johnson,FL,121000,49000,2500,,employed part-time,auto_approved,
+application_114.txt,Yusuf Kim,FL,95000,302000,2400,small business expansion,employed full-time,auto_approved,
+application_115.txt,Carlos Ali,FL,,334500,400,debt consolidation,employed part-time,needs_review,Missing required field: income
+application_116.txt,Maria Murphy,WI,57000,52500,1500,home improvement,self-employed,auto_approved,
+application_117.txt,Grace Kim,FL,135000,303500,950,,employed full-time,auto_approved,
+application_118.txt,Maria Kim,WI,83000,230000,2800,,employed part-time,auto_approved,
+application_119.txt,Carlos Brown,WI,,206500,1750,auto loan,employed full-time,needs_review,Missing required field: income
+application_120.txt,Yusuf Brown,FL,33000,28500,2100,auto loan,self-employed,needs_review,Debt-to-income ratio 0.76 exceeds threshold 0.45

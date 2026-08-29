@@ -1,0 +1,8 @@
+{
+  "extractor_backend": "RuleBasedExtractor",
+  "applications_processed": 120,
+  "auto_approved": 55,
+  "needs_review": 65,
+  "auto_approval_rate_pct": 45.8,
+  "processing_time_seconds": 0.002
+}
